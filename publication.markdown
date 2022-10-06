@@ -5,8 +5,8 @@ permalink: /publications_and_talks/
 ---
 
 ### Preprints
-- Choi, Woocehol; Kim, Jimyeong, On the convergence of decentralized gradient descent with diminishing stepsize, revisited, arXiv:2203.09079 \[[pdf](https://arxiv.org/pdf/2203.09079.pdf)\] 
-- Kim, Jimyeong; Choi, Woocehol, Gradient-push algorithm for distributed optimization with event-triggered communications, arXiv:2111.06315 \[[pdf](https://arxiv.org/pdf/2111.06315.pdf)\]
+- Choi, Woocheol; Kim, Jimyeong, On the convergence of decentralized gradient descent with diminishing stepsize, revisited, arXiv:2203.09079 \[[pdf](https://arxiv.org/pdf/2203.09079.pdf)\] 
+- Kim, Jimyeong; Choi, Woocheol, Gradient-push algorithm for distributed optimization with event-triggered communications, arXiv:2111.06315 \[[pdf](https://arxiv.org/pdf/2111.06315.pdf)\]
 
 ### Journal Papers
 - Ahn, Jaeseop; Kim, Jimyeong; Seo, Ihyeok, On the radius of spatial analyticity for the Klein-Gordon-Schrödinger system, J. Differential Equations. 321 (2022), 449-474 \[[pdf](https://arxiv.org/pdf/2012.15514.pdf)\]
