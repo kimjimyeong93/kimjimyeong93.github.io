@@ -9,6 +9,13 @@ layout: null
     {% for post in site.posts %}
     <url>
         <loc>{{ site.url }}</loc>
+        <!-- {{ post.url }} -->
+        <!-- {% if post.lastmod == null %}
+        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+        {% else %}
+        <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
+        {% endif %} -->
+
         {% if post.sitemap.changefreq == null %}
         <changefreq>weekly</changefreq>
         {% else %}
