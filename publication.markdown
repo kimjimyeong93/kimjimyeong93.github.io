@@ -14,5 +14,6 @@ permalink: /publications_and_talks/
 - Ahn, Jaeseop; Kim, Jimyeong; Seo, Ihyeok, On the radius of spatial analyticity for defocusing nonlinear Schrödinger equations, Discrete Contin. Dyn. Syst. 40 (1) (2020) 423-439 \[[pdf](https://arxiv.org/pdf/1902.10622.pdf)\]
 
 ### Talks
+- November 24, 2022, KSIAM 2022 Annual Meeting, Jeju SONO Calm, Jeju, Republic of Korea
 - September 23, 2022, AORC Monthly Seminar, Sungkyunkwan University, Suwon, Republic of Korea
 - August 8, 2019, 7th East Asian Conference in Harmonic Analysis and Applications, Chung-Ang University, Seoul, Republic of Korea
