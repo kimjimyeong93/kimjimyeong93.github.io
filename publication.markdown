@@ -5,6 +5,7 @@ permalink: /publications_and_talks/
 ---
 
 ### Preprints
+- Choi, Woocheol; Kim, Jimyeong, On the convergence analysis of the decentralized projected gradient descent, arXiv:2303.08412 \[[pdf](https://arxiv.org/pdf/2303.08412.pdf)\] 
 - Choi, Woocheol; Kim, Jimyeong, On the convergence of decentralized gradient descent with diminishing stepsize, revisited, arXiv:2203.09079 \[[pdf](https://arxiv.org/pdf/2203.09079.pdf)\] 
 
 
