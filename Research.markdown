@@ -8,4 +8,3 @@ permalink: /Research/
 
 ### Reinforcement Learning
 
-### Optimal Trade Execution
