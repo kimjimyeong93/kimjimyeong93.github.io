@@ -8,7 +8,7 @@ permalink: /publications_and_talks/
 - Kim, Soohan; Kim,Jimyeong; Sul,Hong Kee; Hong, Youngjoon, An Adaptive Dual-level Reinforcement Learning Approach for Optimal Trade Execution, arXiv:2307.10649 \[[pdf](https://arxiv.org/abs/2307.10649)\]
 - Choi, Woocheol; Kim, Jimyeong, On the convergence analysis of the decentralized projected gradient descent, arXiv:2303.08412 \[[pdf](https://arxiv.org/pdf/2303.08412.pdf)\] 
 - Choi, Woocheol; Kim, Jimyeong, On the convergence of decentralized gradient descent with diminishing stepsize, revisited, arXiv:2203.09079 \[[pdf](https://arxiv.org/pdf/2203.09079.pdf)\]
-- Cho, Gunwoo; Kim, Jimyeong; Kim, Seongyeon; Kwon, Yehyun; Seo, Ihyeok,Quantum revivals and fractality for the Schrödinger equation, arXiv:2105.12510 \[[pdf](https://arxiv.org/abs/2105.12510)\
+- Cho, Gunwoo; Kim, Jimyeong; Kim, Seongyeon; Kwon, Yehyun; Seo, Ihyeok,Quantum revivals and fractality for the Schrödinger equation, arXiv:2105.12510 \[[pdf](https://arxiv.org/abs/2105.12510)\]
 
 
 
@@ -19,5 +19,6 @@ permalink: /publications_and_talks/
 - Ahn, Jaeseop; Kim, Jimyeong; Seo, Ihyeok, On the radius of spatial analyticity for defocusing nonlinear Schrödinger equations, Discrete Contin. Dyn. Syst. 40 (1) (2020) 423-439 \[[pdf](https://www.aimsciences.org/article/doi/10.3934/dcds.2020016)\]
 
 ### Talks
+- August 22, 2023, 10th International Congress on Industrial and Applied Mathematics, Waseda University, Tokyo
 - November 24, 2022, KSIAM 2022 Annual Meeting, Jeju SONO Calm, Jeju, Republic of Korea
 - August 8, 2019, 7th East Asian Conference in Harmonic Analysis and Applications, Chung-Ang University, Seoul, Republic of Korea
