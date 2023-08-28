@@ -3,7 +3,7 @@ layout: page
 title: Publications & Talks
 permalink: /publications_and_talks/
 ---
-*: co-1st author,+: corresponding author
+*: (co-)1st author,+: corresponding author
 ### Preprints
 - Kim, Soohan\*; Kim,Jimyeong\*; Sul,Hong Kee+; Hong, Youngjoon+, An Adaptive Dual-level Reinforcement Learning Approach for Optimal Trade Execution, arXiv:2307.10649 \[[pdf](https://arxiv.org/abs/2307.10649)\]
 - Choi, Woocheol\*; Kim, Jimyeong+, On the convergence analysis of the decentralized projected gradient descent, arXiv:2303.08412 \[[pdf](https://arxiv.org/pdf/2303.08412.pdf)\] 
