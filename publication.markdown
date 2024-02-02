@@ -14,6 +14,12 @@ permalink: /publications/
 
 ### Conference Papers
 
+### Preprints
+4. Kim, Soohan\*; Kim,Jimyeong\*; Sul,Hong Kee+; Hong, Youngjoon+, An Adaptive Dual-level Reinforcement Learning Approach for Optimal Trade Execution, arXiv:2307.10649 \[[pdf](https://arxiv.org/abs/2307.10649)\]
+3. Choi, Woocheol\*; Kim, Jimyeong+, On the convergence analysis of the decentralized projected gradient descent, arXiv:2303.08412 \[[pdf](https://arxiv.org/pdf/2303.08412.pdf)\] 
+2. Choi, Woocheol\*; Kim, Jimyeong+, On the convergence of decentralized gradient descent with diminishing stepsize, revisited, arXiv:2203.09079 \[[pdf](https://arxiv.org/pdf/2203.09079.pdf)\]
+1. Cho, Gunwoo\*; Kim, Jimyeong\*; Kim, Seongyeon\*; Kwon, Yehyun\*; Seo, Ihyeok+,Quantum revivals and fractality for the Schrödinger equation, arXiv:2105.12510 \[[pdf](https://arxiv.org/abs/2105.12510)\]
+
 
 ### Ph.D. thesis
 - Convergence Results for the Decentralized Gradient Descent and the Gradient-push with Event-triggered Communication \[[pdf](./Thesis_Jimyeong_Kim.pdf), [slides](./Thesis_presentation_Jimyeong_Kim.pdf)\]
