@@ -6,7 +6,7 @@ permalink: /publications/
 *: (co-)1st author,+: corresponding author
 
 ### Preprints
-2. W. Choi\* and **J. Kim**+, On the convergence analysis of the decentralized projected gradient descent, arXiv:2303.08412 \[[pdf](https://arxiv.org/pdf/2303.08412.pdf)\] 
+2. W. Choi\* and __J. Kim__+, On the convergence analysis of the decentralized projected gradient descent, arXiv:2303.08412 \[[pdf](https://arxiv.org/pdf/2303.08412.pdf)\] 
 1. W. Choi\* and **J. Kim**+, On the convergence of decentralized gradient descent with diminishing stepsize, revisited, arXiv:2203.09079 \[[pdf](https://arxiv.org/pdf/2203.09079.pdf)\]
 
 
