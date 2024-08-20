@@ -11,7 +11,7 @@ permalink: /publications/
 
 
 ### Journal Papers
-6. S. Kim\*, <u>J. Kim</u>\*, H.K. Sul+ and Y. hong+, An Adaptive Dual-level Reinforcement Learning Approach for Optimal Trade Execution, Expert Systems with Applications, Vol 252 (2024) \[[pdf](https://www.sciencedirect.com/science/article/abs/pii/S0957417424011291)\]
+6. S. Kim\*, <u>J. Kim</u>\*, H.K. Sul+ and Y. Hong+, An Adaptive Dual-level Reinforcement Learning Approach for Optimal Trade Execution, Expert Systems with Applications, Vol 252 (2024) \[[pdf](https://www.sciencedirect.com/science/article/abs/pii/S0957417424011291)\]
 5. G. Cho\*, <u>J. Kim</u>\*, S. Kim\*, Y. Kwon\* and I. Seo+,Quantum revivals and fractality for the Schrödinger equation, Rep. Math. Phys. Vol 93 (2) (2024), 129-143 \[[pdf](https://www.sciencedirect.com/science/article/abs/pii/S0034487724000223)\]
 4. <u>J. Kim</u>* and W. Choi+, Gradient-push algorithm for distributed optimization with event-triggered communications, IEEE Access, vol 11 (2023) 517-534 \[[pdf](https://ieeexplore.ieee.org/document/10003196?source=authoralert)\]
 3. J. Ahn\*, <u>J. Kim</u>\* and I. Seo+, On the radius of spatial analyticity for the Klein-Gordon-Schrödinger system, J. Differential Equations. 321 (2022), 449-474 \[[pdf](https://www.sciencedirect.com/science/article/pii/S0022039622001966)\]
